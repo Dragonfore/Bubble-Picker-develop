@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="countries">
+        <item>Pizza</item>
+        <item>Sushi</item>
+        <item>Bar Food</item>
+        <item>Japanese</item>
+        <item>Mexican</item>
+        <item>Chinese</item>
+        <item>Vietnamese</item>
+        <item>Korean</item>
+        <item>Italian</item>
+        <item>American</item>
+        <item>Comfort Food</item>
+        <item>Greek</item>
+        <item>Indian</item>
+        <item>French</item>
+        <item>Latin American</item>
+        <item>Mediterranean</item>
+        <item>Thai</item>
+    </string-array>
+
+    <integer-array name="images">
+        <item>@drawable/pizza</item>
+        <item>@drawable/sushi</item>
+        <item>@drawable/comfort</item>
+        <item>@drawable/japanese</item>
+        <item>@drawable/mexican</item>
+        <item>@drawable/chinese</item>
+        <item>@drawable/vietnamese</item>
+        <item>@drawable/korean</item>
+        <item>@drawable/italian</item>
+        <item>@drawable/american</item>
+        <item>@drawable/comfort</item>
+        <item>@drawable/greek</item>
+        <item>@drawable/indian</item>
+        <item>@drawable/french</item>
+        <item>@drawable/latino</item>
+        <item>@drawable/italian</item>
+        <item>@drawable/thai</item>
+    </integer-array>
+
+    <integer-array name="colors">
+        <item>@color/roseStart</item>
+        <item>@color/roseEnd</item>
+        <item>@color/blueStart</item>
+        <item>@color/blueEnd</item>
+        <item>@color/greenStart</item>
+        <item>@color/greenEnd</item>
+        <item>@color/purpleStart</item>
+        <item>@color/purpleEnd</item>
+    </integer-array>
+
+</resources>
